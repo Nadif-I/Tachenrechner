@@ -1,5 +1,4 @@
-﻿//First commit via Visual Studio 2022 for Mac
+﻿//3. commit via macOS Terminal
+System.Console.WriteLine("Taschenrechner\nCalculator");
 
-//2. commit via visual studio CODE
-System.Console.WriteLine("Hello World");
 
