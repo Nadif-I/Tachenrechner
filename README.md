@@ -12,3 +12,5 @@ Nach entsprechender Wahl soll der Anwender das Ergebnis (wenn mathematisch mögl
 ausgegeben bekommen.
 
 Nach der Ausgabe der Berechnung soll das Programm automatisch von neuem starten.
+
+# Not yet finished
